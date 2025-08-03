@@ -65,6 +65,7 @@ Config.Elevator = {
             },
         },
     },
+    -- Add more Elevators Here!
 }
 ```
 
