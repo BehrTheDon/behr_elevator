@@ -72,8 +72,8 @@ Config.Elevator = {
 
 ```lua
 Config.Debug = true -- Enable console debug messages
-Config.TextUI = "oxlib" -- Use ox_lib Text UI
-Config.TextPosition = "right-center" -- UI placement
+Config.VersionCheckerEnabled = true
+Config.TextPosition = "right-center" -- TextUI placement
 ```
 
 ---
