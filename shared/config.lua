@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Debug = true -- Set to true to enable debug messages in the console
+Config.Debug = false -- Set to true to enable debug messages in the console
 Config.VersionCheckEnabled = true
 
 Config.OxTextPosition = "right-center"  -- left-center/right-center/bottom-center/top-center
