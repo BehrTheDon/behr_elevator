@@ -27,7 +27,7 @@ A lightweight and configurable elevator system for FiveM using **ox_lib**. Allow
 
    ```bash
    git clone https://github.com/yourusername/behr_elevator.git
-````
+   ```
 
 2. **Add the following to your `server.cfg`** (make sure `ox_lib` starts first):
 
