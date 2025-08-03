@@ -97,5 +97,3 @@ This project is licensed under the terms of the [LICENSE](./LICENSE).
 
 Need help or want to suggest a feature?
 Open an issue or contact [Behr Development](https://discord.gg/wA7W5dUMG6) on Discord.
-
-```
